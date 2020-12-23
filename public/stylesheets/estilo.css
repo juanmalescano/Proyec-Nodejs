@@ -1,0 +1,59 @@
+*{scroll-behavior: smooth;}
+
+header{
+  height: 90px;
+  background: rgb(65, 196, 236);
+  z-index: 10000;
+  box-shadow: 0px 0px 5px 0px black;
+  top: 0 !important;
+  }
+  #contenedorlistamenu a{
+      color: black;
+      font-size: xx-large;
+      }
+      #contenedorlistamenu a:hover{
+          color: rgba(254, 255, 255, 0.521);
+          }
+
+#footer{
+  background-color: white;
+  }
+  #redes{
+      background-color:transparent;
+  }
+  #redes ul li{
+          list-style: none;
+          }
+          .derechos{
+                  color: white;
+                  background: black;
+                  }
+
+ #carousel{
+     position: absolute;
+     z-index: -1;
+ }   
+ #consul{
+   position: relative;
+     z-index: 1;
+ }    
+
+ #destinos{
+   min-height: 70vh;
+    position: relative;
+    overflow: hidden;
+ }
+ #contacto{
+    min-height: 60vh;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.548);
+ }
+ #destinoSingle{
+  top: 50px;
+  height: 95vh;
+  position: relative;
+ }
+ 
+ .shadow{
+  box-shadow: 0px 0px 5px 0px black;
+ }
