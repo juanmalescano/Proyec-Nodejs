@@ -6,7 +6,7 @@ port: 465,
 secure: true, //(si es true es 465 el puerto)
 auth:{
 	user:"juanmalescano77@gmail.com", //user del correo
-	pass:"nncldjxmqjzjmgca"// password del correo
+	pass:"aaaaa"// password del correo
 }
 })
 
